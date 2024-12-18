@@ -10,4 +10,4 @@ This project is a sample model of how to summarize website contents and all of t
 ## Demo
 
 
-![](https://github.com/amitesh1234/Summarization_llm/blob/main/assets/demo.gif)
+![](https://github.com/amitesh1234/llm_website_crawler/blob/master/assets/demo.gif)
